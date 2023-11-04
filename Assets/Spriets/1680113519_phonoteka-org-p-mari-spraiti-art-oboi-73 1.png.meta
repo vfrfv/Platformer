@@ -1,0 +1,1137 @@
+fileFormatVersion: 2
+guid: d4549e772ec5bb04f9f34109ba410435
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d50178ef6fc094582dac206e5e50cd
+      internalID: -1001202569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 764
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1f7b841d0c25f41b29c95a7f7f369e
+      internalID: 25926095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 760
+        width: 104
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c64b16011b9eb4c9fa3d0fc5fa0202
+      internalID: 1229193178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_3
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 760
+        width: 88
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d9cb58c8dd62a4e84b7f1aa91d5326
+      internalID: -1873484485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_4
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 764
+        width: 88
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70cf4b6a2d4cac40b5039444de89b45
+      internalID: -5196167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_5
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 760
+        width: 88
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de036b1ea1aa0e47a06b7787f91de02
+      internalID: -225392174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_6
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 760
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50553592b5e50d46b1fad3518ddbe02
+      internalID: 339685604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_7
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 760
+        width: 104
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f20cd9992f60d54392e9d8b36349e6f
+      internalID: 1045257672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_8
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 760
+        width: 112
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959adc6065e94cf47b51192f643a3189
+      internalID: -925459642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_9
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 760
+        width: 104
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76eb5ddbbc267140950efa6dc2391f8
+      internalID: 305034072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 568
+        width: 112
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2d4246ef5b9be4b889c2cb5319324f
+      internalID: -824513157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 572
+        width: 144
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba1fd79efd74a544b8b50e316e0d4e1
+      internalID: 1262399008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 568
+        width: 104
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ca476c6634dc74ea71e25b7b39bfce
+      internalID: -596191117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 568
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d94f66571a42342956a8db229a1dde
+      internalID: 778847944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 568
+        width: 116
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c4ee88b0efb8f448dcb342a484acdb
+      internalID: 1313806014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_15
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 572
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914d695dcc9245c43b47f6c56d72df27
+      internalID: 2065058648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 572
+        width: 108
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa0cc83318592949883a147bb5e493c
+      internalID: 1749401823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_17
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 572
+        width: 108
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81af3b16cfbd1f344ae11af0437e4bcb
+      internalID: 589638180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 572
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d39c70e22ae3a44a286f27e90b8b00
+      internalID: 646023787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_19
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 572
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71e925fbfeab7b4d8196ae8c2b1bc9f
+      internalID: -999933790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 380
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f15838ffbfdd341a7841dbba0744cc
+      internalID: -111494164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 380
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff89105132dd3b47b956929e5bc7bb0
+      internalID: -361280101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 380
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e493516a79dff9748805182433692f49
+      internalID: -34732270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_23
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 380
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71a09e84077eee4fac62cfdc3920908
+      internalID: -2009587475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 380
+        width: 104
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca428fd3b89aea4e8f4ea4cbf8344c4
+      internalID: -1192630658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 380
+        width: 96
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae73380634e2e8e45bae45689674adbd
+      internalID: -2066061231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_26
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6668b53e2c68948870c24572e413a4
+      internalID: 1333266332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_27
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 384
+        width: 116
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52779d20baa67d469e2f7327bdd3ce9
+      internalID: 1653082111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 380
+        width: 96
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c0db3e8ec924e41af87719df9c531b
+      internalID: -1772462082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_29
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 380
+        width: 92
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35a8225e108a2c4d891bfaf8f47ca6b
+      internalID: 51490456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_30
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 540
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f22444c17e0d554d8fdee866f88ce77
+      internalID: -1640927218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_31
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 516
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7181028f1f56d164d955d2f1062bedbe
+      internalID: 873208099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 380
+        width: 188
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74a719498a2d5f43ba8fd53a414f99b
+      internalID: 613784717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 188
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b503132a67ca0d4da0cf705c2ddc8b1
+      internalID: -1334390874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 188
+        width: 96
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abeae79647a4f4da88f6e2d756cd93
+      internalID: -1557855354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 188
+        width: 88
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6d1ba8f4b74fe41bc732a3a2d48444
+      internalID: 1364496367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_36
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 184
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845755d4155d76741995e83476d250e0
+      internalID: -1025190845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_37
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 188
+        width: 104
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaee19a8ab2658b4abe7f23fce455509
+      internalID: 1705894370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_38
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 184
+        width: 104
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e10eaa4922123e499ead09ce5004a3c
+      internalID: -1616640070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 188
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e67f2f2da42ddc40aa5c0d9dd5b003d
+      internalID: 1906137605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_40
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 188
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3735683fb14d12438d04aea308ac0d1
+      internalID: 510947847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_41
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 188
+        width: 108
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44332d81bc60f74d9435f98b02c51e2
+      internalID: -1665013846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_42
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 192
+        width: 148
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae560e696bf469843bbe8ba22a449151
+      internalID: -1489355607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2cba6252bf74b45b1823b1b0dca6fa
+      internalID: 869676146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_44
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 128
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22aeebfa8ee67f43ae1e1c6d46b216c
+      internalID: 1782009145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_0: -1001202569
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_1: 25926095
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_10: -824513157
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_11: 1262399008
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_12: -596191117
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_13: 778847944
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_14: 1313806014
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_15: 2065058648
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_16: 1749401823
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_17: 589638180
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_18: 646023787
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_19: -999933790
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_2: 1229193178
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_20: -111494164
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_21: -361280101
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_22: -34732270
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_23: -2009587475
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_24: -1192630658
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_25: -2066061231
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_26: 1333266332
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_27: 1653082111
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_28: -1772462082
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_29: 51490456
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_3: -1873484485
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_30: -1640927218
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_31: 873208099
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_32: 613784717
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_33: -1334390874
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_34: -1557855354
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_35: 1364496367
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_36: -1025190845
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_37: 1705894370
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_38: -1616640070
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_39: 1906137605
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_4: -5196167
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_40: 510947847
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_41: -1665013846
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_42: -1489355607
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_43: 869676146
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_44: 1782009145
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_5: -225392174
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_6: 339685604
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_7: 1045257672
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_8: -925459642
+      1680113519_phonoteka-org-p-mari-spraiti-art-oboi-73_9: 305034072
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
